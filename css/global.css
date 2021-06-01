@@ -1,0 +1,11 @@
+/* Style sheet */
+
+body {
+  background: #d6fab2; /* garish green */
+}
+
+h1 {
+    color: blue;
+    background-color: yellow;
+    font-family: sans-serif;
+}
